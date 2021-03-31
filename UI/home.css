@@ -1,0 +1,117 @@
+
+body{
+    background: linear-gradient(100deg, rgba(0,0,0,0.7) 24.48%, rgba(255,255,255,0) 100%), url(img/back.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* SAFE: color, style, and position;
+*/
+.p1{
+    position: relative;
+    width: 287px;
+    height: 128px;
+    left: 40%;
+    top: 5%;
+    
+    font-family: Major Mono Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 85px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+
+}
+/* WHO: color, style, and position;
+*/
+.p2{
+    position: relative;
+    width: 24%;
+    height: 4%;
+    left: 38%;
+    top: 15%; 
+
+    font-family: Major Mono Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 60px;
+    
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+.p3{
+    position: relative;
+    width: 489px;
+    height: 60px;
+    left: 31%;
+    top: 46%;
+
+    font-family: Major Mono Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+.p4{
+    position: relative;
+    width: 407px;
+    height: 102px;
+    left: 35%;
+    bottom: 5%;
+
+    font-family: Arvo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+.btn-student{
+    position: relative;
+    width: 210px;
+    height: 135px;
+    left: 33%;
+    top: 25%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 100px rgba(0,0,0,0.25);
+    border-radius: 35px;
+
+    font-family: Major Mono Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.69);
+}
+
+.btn-admin{
+    position: relative;
+    width: 210px;
+    height: 135px;
+    left: 35%;
+    top: 25%;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    font-family: Major Mono Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.69);
+    
+}
